@@ -1,4 +1,12 @@
 @font-face {
-    font-family: 'LemonMilk';
-    src:url(Fonts/LemonMilkRegular.ttf);
+    font-family: Typewriter;
+    src:url(Fonts/cmu.typewriter-text-regular.ttf);
+}
+@font-face {
+    font-family: JannaLTBold;
+    src:url(Fonts/Janna\ LT\ Bold.ttf);
+}
+
+h1, p, button{
+    font-family: JannaLTBold;
 }
