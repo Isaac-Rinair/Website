@@ -1,0 +1,30 @@
+@font-face {
+    font-family: JannaRegular;
+    src:url(FontsFolder/JannaRegular.ttf);
+}
+@font-face {
+    font-family: JannaBold;
+    src:url(FontsFolder/JannaBold.ttf);
+}
+
+h1, p, button{
+    font-family: JannaLBold;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+    padding-top: 25px;
+    position: relative;
+}
+nav a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 12px;
+}
