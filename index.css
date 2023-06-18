@@ -10,6 +10,10 @@
 h1, p, button{
     font-family: JannaLBold;
 }
+div section{
+    display: block;
+    text-align: center;
+}
 div ul {
     margin: 0;
     padding: 0;
@@ -17,7 +21,7 @@ div ul {
 }
 div li {
     display: inline-block;
-    margin: 0 7.5px;
+    margin: 0 15px;
     padding-top: 25px;
     position: relative;
 }
