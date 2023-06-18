@@ -10,6 +10,9 @@
 h1, p, button{
     font-family: JannaLBold;
 }
+div {
+    overflow-x: hidden;
+}
 div section{
     display: block;
     text-align: center;
